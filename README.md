@@ -1,7 +1,9 @@
-# IEEEXtreme11-PComplete
+# IEEEXtreme11-PComplete :rocket:
 IEEEXtreme 11.0 Solutions by **PComplete** Team (50th Rank Worldwide)
 
-Team Comprised of:
- * Konstantinos Ameranis (kameranis)
- * Panagiotis Kostopanagiotis ()
- * Marios Papachristou (papachristoumarios)
+Team Comprised of (alphabetically):
+ * Konstantinos Ameranis ([kameranis](http://github.com/kameranis))
+ * Panagiotis Kostopanagiotis ([infinity4471](http://github.com/infinity4471))
+ * Marios Papachristou ([papachristoumarios](http://github.com/papachristoumarios))
+
+Solutions to challenges were submitted in C++ or Python. 
