@@ -1,4 +1,4 @@
-# IEEEXtreme11-PComplete :rocket:
+# IEEEXtreme11.0-PComplete :rocket:
 IEEEXtreme 11.0 Solutions by **PComplete** Team (50th Rank Worldwide)
 
 Team Comprised of (alphabetically):
