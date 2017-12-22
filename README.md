@@ -1,5 +1,5 @@
 # IEEEXtreme11.0-PComplete :rocket:
-IEEEXtreme 11.0 Solutions by **PComplete** Team (50th Rank Worldwide)
+IEEEXtreme 11.0 Solutions by **PComplete** Team (48th Rank Worldwide)
 
 Team Comprised of (alphabetically):
  * Konstantinos Ameranis ([kameranis](http://github.com/kameranis))
