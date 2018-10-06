@@ -6,4 +6,10 @@ Team Comprised of (alphabetically):
  * Panagiotis Kostopanagiotis ([infinity4471](http://github.com/infinity4471))
  * Marios Papachristou ([papachristoumarios](http://github.com/papachristoumarios))
 
+## Solutions 
+
 Solutions to challenges were submitted in C++ or Python. 
+
+## Tasks 
+
+The tasks are located [on CSAcademy](https://csacademy.com/contest/ieeextreme11)
