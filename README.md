@@ -12,4 +12,4 @@ Solutions to challenges were submitted in C++ or Python.
 
 ## Tasks 
 
-The tasks are located [on CSAcademy](https://csacademy.com/contest/ieeextreme11)
+The tasks are located [on CSAcademy](https://csacademy.com/contest/ieeextreme11) ([practice environment](https://csacademy.com/ieeextreme-practice/tasks/)]
