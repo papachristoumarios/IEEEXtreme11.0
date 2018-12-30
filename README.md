@@ -13,3 +13,9 @@ Solutions to challenges were submitted in C++ or Python.
 ## Tasks 
 
 The tasks are located [on CSAcademy](https://csacademy.com/contest/ieeextreme11) ([practice environment](https://csacademy.com/ieeextreme-practice/tasks/))
+
+## Ranking
+
+1. Country Ranking: 1
+2. Region Ranking (R8): 13
+3. Worldwide Ranking: 48
